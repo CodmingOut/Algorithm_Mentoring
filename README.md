@@ -5,7 +5,8 @@
 
 [박경원](http://github.com/watershot)     
 [황선우](http://github.com/sionhwang)     
-[김현우](http://github.com/coalery) 
+[김현우](http://github.com/coalery)
+[이준원](http://github.com/cpprhtn) 
 
 ## Index
 
@@ -16,4 +17,3 @@
 |3|[3. 탐색(search) 알고리즘](./3/README.md)|선형, 이진, 트리 탐색 etc.|
 |4|[4. 최근접 이웃(Nearest Neighbor) 알고리즘](./4/README.md)|RNN, KNN, CNN etc.|
 |5|[5. 다익스트라(Dijkstra) 알고리즘](./5/README.md)|최단경로|
-
