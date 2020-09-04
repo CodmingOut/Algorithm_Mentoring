@@ -41,6 +41,7 @@
 
 1 2 3 4 5 | ← 최종 결과
 
+![selection_sort.gif](/img/selection_sort.gif)
 
 ### 파이썬으로 구현하기 (함수포함)
 ```Py
